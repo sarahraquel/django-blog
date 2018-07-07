@@ -3,76 +3,78 @@
   fields:
     user: 2
     post: 1
-    body: 'Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
-      aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
-      ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
-      voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-      occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim
-      id est laborum.'
+    body: ' Caros amigos, a consulta aos diversos militantes nos obriga à análise das condições 
+    financeiras e administrativas exigidas. Desta maneira, o início da atividade geral de formação
+     de atitudes estimula a padronização das condições inegavelmente apropriadas. Por outro lado, a 
+     contínua expansão de nossa atividade promove a alavancagem do impacto na agilidade decisória. 
+     Gostaria de enfatizar que o entendimento das metas propostas oferece uma interessante oportunidade
+      para verificação dos níveis de motivação departamental. Assim mesmo, o novo modelo estrutural 
+      aqui preconizado acarreta um processo de reformulação e modernização das direções preferenciais
+       no sentido do progresso. '
     pub_date: '2017-12-03T12:19:36+00:00'
 - model: blog.comment
   pk: 2
   fields:
     user: 3
     post: 2
-    body: 'Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
-      aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
-      ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
-      voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-      occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim
-      id est laborum.'
+    body: 'A prática cotidiana prova que o desenvolvimento contínuo de distintas 
+    formas de atuação aponta para a melhoria dos relacionamentos verticais 
+    entre as hierarquias. Nunca é demais lembrar o peso e o significado destes 
+    problemas, uma vez que a valorização de fatores subjetivos deve passar por 
+    modificações independentemente do levantamento das variáveis envolvidas. 
+    Todavia, a consolidação das estruturas obstaculiza a apreciação da importância 
+    das formas de ação. '
     pub_date: '2017-12-03T12:19:36+00:00'
 - model: blog.comment
   pk: 3
   fields:
     user: 1
     post: 3
-    body: 'Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
-      aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
-      ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
-      voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-      occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim
-      id est laborum.'
+    body: 'O empenho em analisar o consenso sobre a necessidade de 
+    qualificação garante a contribuição de um grupo importante na 
+    determinação dos índices pretendidos. No entanto, não podemos 
+    esquecer que a mobilidade dos capitais internacionais representa 
+    uma abertura para a melhoria das novas proposições. Ainda assim, existem dúvidas 
+    a respeito de como a complexidade dos estudos efetuados pode nos levar a considerar 
+    a reestruturação dos métodos utilizados na avaliação de resultados. '
     pub_date: '2017-12-03T12:19:36+00:00'
 - model: blog.comment
   pk: 4
   fields:
     user: 3
     post: 1
-    body: 'Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
-      aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
-      ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
-      voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-      occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim
-      id est laborum.'
+    body: 'Do mesmo modo, a estrutura atual da organização cumpre um papel essencial na formulação 
+          do remanejamento dos quadros funcionais. Não obstante, a competitividade nas transações 
+          comerciais afeta positivamente a correta previsão das diretrizes de desenvolvimento para
+           o futuro. As experiências acumuladas demonstram que o surgimento do comércio virtual 
+           talvez venha a ressaltar a relatividade dos paradigmas corporativos. O que temos que 
+           ter sempre em mente é que a expansão dos mercados mundiais maximiza as possibilidades
+            por conta de todos os recursos funcionais envolvidos. '
     pub_date: '2017-12-03T12:19:36+00:00'
 - model: blog.comment
   pk: 5
   fields:
     user: 2
     post: 2
-    body: 'Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
-      aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
-      ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
-      voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-      occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim
-      id est laborum.'
+    body: 'Por conseguinte, o julgamento imparcial das eventualidades desafia a capacidade de 
+    equalização dos conhecimentos estratégicos para atingir a excelência. O incentivo ao avanço 
+    tecnológico, assim como a crescente influência da mídia facilita a criação da gestão inovadora 
+    da qual fazemos parte. A nível organizacional, o aumento do diálogo entre os diferentes setores 
+    produtivos agrega valor ao estabelecimento dos modos de operação convencionais. Acima de tudo, 
+    é fundamental ressaltar que a execução dos pontos do programa é uma das consequências do 
+    processo de comunicação como um todo. '
     pub_date: '2017-12-03T12:19:36+00:00'
 - model: blog.comment
   pk: 6
   fields:
     user: 3
     post: 3
-    body: 'Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
-      aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
-      ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
-      voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-      occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim
-      id est laborum.'
+    body: 'Percebemos, cada vez mais, que o fenômeno da Internet auxilia a preparação e a 
+    composição das diversas correntes de pensamento. No mundo atual, a revolução dos costumes 
+    prepara-nos para enfrentar situações atípicas decorrentes do sistema de participação geral. 
+    Todas estas questões, devidamente ponderadas, levantam dúvidas sobre se o acompanhamento das
+     preferências de consumo possibilita uma melhor visão global do fluxo de informações. Neste 
+     sentido, a necessidade de renovação processual estende o alcance e a importância das regras 
+     de conduta normativas. Evidentemente, a determinação clara de objetivos faz parte de um processo 
+     de gerenciamento dos procedimentos normalmente adotados. '
     pub_date: '2017-12-03T12:19:36+00:00'

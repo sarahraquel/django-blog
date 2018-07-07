@@ -3,76 +3,54 @@
   fields:
     user: 2
     title: Title 1
-    body: 'Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
-      aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
-      ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
-      voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-      occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim
-      id est laborum.'
+    body: 'Pensando mais a longo prazo, a adoção de políticas descentralizadoras exige a precisão e 
+    a definição das posturas dos órgãos dirigentes com relação às suas atribuições. A certificação 
+    de metodologias que nos auxiliam a lidar com a constante divulgação das informações causa impacto 
+    indireto na reavaliação de alternativas às soluções ortodoxas. Podemos já vislumbrar o modo pelo 
+    qual a percepção das dificuldades apresenta tendências no sentido de aprovar a manutenção do 
+    orçamento setorial. O cuidado em identificar pontos críticos no comprometimento entre as equipes 
+    ainda não demonstrou convincentemente que vai participar na mudança do investimento em reciclagem 
+    técnica. É claro que o desafiador cenário globalizado não pode mais se dissociar do retorno esperado
+     a longo prazo. É importante questionar o quanto a hegemonia do ambiente político assume 
+     importantes posições no estabelecimento do sistema de formação de quadros que corresponde 
+     às necessidades. No mundo atual, a consolidação das estruturas causa impacto indireto na
+      reavaliação de todos os recursos funcionais envolvidos. '
     pub_date: '2017-12-03T12:19:36+00:00'
 - model: blog.post
   pk: 2
   fields:
     user: 3
     title: Title 2
-    body: 'Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
-      aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
-      ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
-      voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-      occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim
-      id est laborum.'
+    body: 'Por conseguinte, o novo modelo estrutural aqui preconizado possibilita uma melhor 
+    visão global dos índices pretendidos. Por outro lado, a necessidade de renovação processual 
+    agrega valor ao estabelecimento dos modos de operação convencionais. Gostaria de enfatizar 
+    que a competitividade nas transações comerciais pode nos levar a considerar a reestruturação
+     do retorno esperado a longo prazo. Desta maneira, a valorização de fatores subjetivos oferece
+      uma interessante oportunidade para verificação dos níveis de motivação departamental. '
     pub_date: '2017-12-03T12:19:36+00:00'
 - model: blog.post
   pk: 3
   fields:
     user: 1
     title: Title 3
-    body: 'Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
-      aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
-      ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
-      voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-      occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim
-      id est laborum.'
+    body: 'Ainda assim, existem dúvidas a respeito de como a determinação clara de objetivos 
+    afeta positivamente a correta previsão das diretrizes de desenvolvimento para o futuro. 
+    O incentivo ao avanço tecnológico, assim como a contínua expansão de nossa atividade 
+    talvez venha a ressaltar a relatividade dos paradigmas corporativos. Todas estas questões,
+     devidamente ponderadas, levantam dúvidas sobre se o comprometimento entre as equipes 
+     maximiza as possibilidades por conta das condições financeiras e administrativas exigidas.
+      Acima de tudo, é fundamental ressaltar que a crescente influência da mídia desafia a 
+      capacidade de equalização do levantamento das variáveis envolvidas. '
     pub_date: '2016-12-13T12:19:36+00:00'
 - model: blog.post
   pk: 4
   fields:
     user: 3
     title: Title 4
-    body: 'Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
-      aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
-      ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
-      voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-      occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim
-      id est laborum.'
-    pub_date: '2015-11-03T12:19:36+00:00'
-- model: blog.post
-  pk: 5
-  fields:
-    user: 2
-    title: Title 5
-    body: 'Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
-      aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
-      ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
-      voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-      occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim
-      id est laborum.'
-    pub_date: '2014-05-15T12:19:36+00:00'
-- model: blog.post
-  pk: 6
-  fields:
-    user: 3
-    title: Title 6
-    body: 'Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
-      aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
-      ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
-      voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-      occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim
-      id est laborum.'
-    pub_date: '2017-11-11T12:19:36+00:00'
+    body: 'O que temos que ter sempre em mente é que a constante divulgação das informações 
+    deve passar por modificações independentemente dos conhecimentos estratégicos para atingir 
+    a excelência. A nível organizacional, o aumento do diálogo entre os diferentes setores 
+    produtivos facilita a criação do sistema de formação de quadros que corresponde às
+     necessidades. Do mesmo modo, o consenso sobre a necessidade de qualificação ainda não 
+     demonstrou convincentemente que vai participar na mudança de alternativas às soluções ortodoxas. '
+    pub_date: '2015-11-03T12:19:36+00:00' 
