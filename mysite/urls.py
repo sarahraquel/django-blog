@@ -25,5 +25,6 @@ urlpatterns = [
     path('login/', auth_views.LoginView.as_view(template_name='blog/login.html'), name='login'),
     path('logout/', auth_views.LogoutView.as_view(next_page='blog:home')),
     path('register/', RegisterView.as_view(), name='register'),
-    path('', include('django.contrib.auth.urls'))
+    path('', include('django.contrib.auth.urls')),
+    path(r'search/', include('haystack.urls')),
 ]

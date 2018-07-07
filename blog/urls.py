@@ -1,4 +1,4 @@
-from django.urls import path
+from django.urls import path, include
 
 from blog.views.comment import CommentCreate
 from blog.views.home import home
@@ -19,5 +19,5 @@ urlpatterns = [
     # ex: /blog/post/5/delete/
     path('post/<int:pk>/delete/', PostDelete.as_view(), name='delete_post'),
     # ex: /blog/post/5/comment/
-    path('post/<int:pk>/comment/', CommentCreate.as_view(), name='create_comment')
+    path('post/<int:pk>/comment/', CommentCreate.as_view(), name='create_comment'),
 ]
