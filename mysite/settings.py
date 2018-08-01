@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'haystack',
+    'graphene_django',
 ]
 
 MIDDLEWARE = [
@@ -88,6 +89,10 @@ HAYSTACK_CONNECTIONS = {
         'URL': 'http://127.0.0.1:9200/',
         'INDEX_NAME': 'haystack',
     },
+}
+
+GRAPHENE = {
+    'SCHEMA': 'mysite.schema.schema'
 }
 
 

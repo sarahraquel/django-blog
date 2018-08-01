@@ -18,6 +18,7 @@ from django.contrib.auth import views as auth_views
 from django.urls import path, include
 
 from blog.views.register import RegisterView
+from graphene_django.views import GraphQLView
 
 urlpatterns = [
     path('blog/', include('blog.urls')),
@@ -27,4 +28,6 @@ urlpatterns = [
     path('register/', RegisterView.as_view(), name='register'),
     path('', include('django.contrib.auth.urls')),
     path(r'search/', include('haystack.urls')),
+
+    path(r'graphql/', GraphQLView.as_view(graphiql=True)),
 ]
