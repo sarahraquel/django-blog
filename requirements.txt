@@ -4,3 +4,4 @@ pyYAML==3.12
 ipython==6.2.1
 django-haystack
 elasticsearch>=2.0.0,<3.0.0
+graphene_django
